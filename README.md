@@ -44,15 +44,23 @@ java ATMSystem
 
 ## Project Structure
 
-```
-ATMSystem/
+```ATMSystem/
 │
-├── ATMSystem.java         # Main entry point
-├── model/
-│   └── BankAccount.java   # Encapsulates account details
-├── dao/
-│   └── AccountDAO.java    # Handles file-based data storage
-```
+├── src/
+│   ├── dao/
+│   │   └── AccountDAO.java
+│   ├── io/
+│   │   └── FileHandler.java
+│   ├── model/
+│   │   └── Account.java
+│   ├── ui/
+│   │   └── ATMInterface.java
+│   └── main/
+│       └── Main.java
+│
+├── accounts.txt         <-- auto-created for storage
+└── README.md            <-- you’ll get this below
+
 
 ---
 
