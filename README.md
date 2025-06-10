@@ -87,7 +87,8 @@ Main Class – Main.java: Starts the application
 
 
 
-👥 Group Members
+👥 Group Members    
+
 Manav Pachauri
 
 Hritik Verma
@@ -95,6 +96,7 @@ Hritik Verma
 Prasun Gautam
 
 Jatin Laur
+
 
 
  GitHub Repository
